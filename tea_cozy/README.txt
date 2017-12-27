@@ -1,0 +1,1 @@
+This project was done with the help and expertise of Samantha @Codecademy.
